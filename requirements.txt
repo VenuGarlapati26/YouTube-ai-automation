@@ -1,0 +1,10 @@
+openai
+moviepy
+imageio[ffmpeg]
+gtts
+google-api-python-client
+python-dotenv
+pillow
+pytube
+oauth2client
+schedule

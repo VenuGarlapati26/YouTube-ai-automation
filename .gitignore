@@ -1,0 +1,24 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+env/
+*.env
+
+# Secrets and credentials
+client_secrets.json
+token.pickle
+token.json
+schedule.json
+
+# Data folders (optional)
+data/audio/
+data/videos/
+data/scripts/
+data/thumbnails/
+
+# OS + Editor junk
+.DS_Store
+.vscode/
